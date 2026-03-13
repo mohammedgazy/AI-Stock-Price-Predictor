@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+yfinance
+transformers
+torch
+matplotlib
+plotly
+jupyter
+beautifulsoup4
+requests
+tqdm
