@@ -1,6 +1,6 @@
-# Stock Sentiment Predictor
+# AI Stock Price Predictor
 
-The Stock Sentiment Predictor is an end-to-end machine learning pipeline that collects historical market data, extracts financial news, analyzes sentiment using Natural Language Processing (NLP), and predicts whether a specific stock will go "Up" or "Down" in the next trading day.
+The Stock Price Predictor is an end-to-end machine learning pipeline that collects historical market data, extracts financial news, analyzes sentiment using Natural Language Processing (NLP), and predicts whether a specific stock will go "Up" or "Down" in the next trading day.
 
 ## Business Problem
 
